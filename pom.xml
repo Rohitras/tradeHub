@@ -8,8 +8,8 @@
 		<version>2.3.0.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.db.</groupId>
-	<artifactId>tradestorage</artifactId>
+	<groupId>com.db.tf3</groupId>
+	<artifactId>tradeHub</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>tradestorage</name>
 	<description>Demo project for Spring Boot</description>
